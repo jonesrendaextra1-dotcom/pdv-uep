@@ -1,0 +1,6 @@
+{
+  "name": "UEP Cafeteria — PDV & Gestão",
+  "description": "Sistema completo de PDV, KDS com controle incremental de produção, divisão de pagamentos múltipla e por itens, e gestão financeira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
